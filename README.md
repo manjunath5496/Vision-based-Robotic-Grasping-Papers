@@ -2,202 +2,188 @@
 
 <ul>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(1).pdf" style="text-decoration:none;">5-Level Paging and 5-Level EPT</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(1).pdf" style="text-decoration:none;">Fusing Points and Lines for High Performance Tracking</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(2).pdf" style="text-decoration:none;">37 Million Compilations:
-Investigating Novice Programming Mistakes in Large-Scale Student Data</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(2).pdf" style="text-decoration:none;">ORB: an efficient alternative to SIFT or SURF</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(3).pdf" style="text-decoration:none;">Unwinding the Stack:
-Exploring how C++ Exceptions work on Windows</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(4).pdf" style="text-decoration:none;">A Block-sorting Lossless
-Data Compression Algorithm</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(5).pdf" style="text-decoration:none;">A Brief Introduction to
-Neural Networks</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(6).pdf" style="text-decoration:none;">A Brief Introduction to the Standard Annotation Language (SAL)</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(7).pdf" style="text-decoration:none;">A Brief Tutorial on Database Queries, Data Mining, and OLAP</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(3).pdf" style="text-decoration:none;">Partial Correspondence of 3D Shapes using Properties of the Nearest-Neighbor Field</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(4).pdf" style="text-decoration:none;">Efficient Hough transform for automatic detection of cylinders in point clouds</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(5).pdf" style="text-decoration:none;">Completion of Cultural Heritage Objects with Rotational Symmetry</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(6).pdf" style="text-decoration:none;">EnsembleNet: Improving Grasp Detection using an Ensemble of Convolutional Neural Networks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(7).pdf" style="text-decoration:none;">Rich feature hierarchies for accurate object detection and semantic segmentation Tech report (v5)</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(8).pdf" style="text-decoration:none;"> A Case Study in Optimizing HTM-Enabled Dynamic Data Structures: Patricia Tries</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(8).pdf" style="text-decoration:none;"> OverFeat:
+Integrated Recognition, Localization and Detection using Convolutional Networks</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(9).pdf" style="text-decoration:none;">
-A Catalogue of Optimizing Transformations </a></li>
+Microsoft COCO: Common Objects in Context </a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(10).pdf" style="text-decoration:none;">A Comparison of
-Programming Languages in Economics </a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(11).pdf" style="text-decoration:none;">A Comparison of Software and Hardware Techniques for x86 Virtualization</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(12).pdf" style="text-decoration:none;">A comparison of SPDY and HTTP performance</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(13).pdf" style="text-decoration:none;">A Compilation Target for Probabilistic Programming Languages</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(10).pdf" style="text-decoration:none;">Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(11).pdf" style="text-decoration:none;">Simultaneous Detection and Segmentation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(12).pdf" style="text-decoration:none;">Learning Rich Features from RGB-D Images for Object Detection and Segmentation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(13).pdf" style="text-decoration:none;">Hierarchical Image Saliency Detection on Extended CSSD</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(14).pdf" style="text-decoration:none;">A comprehensive study of
-Convergent and Commutative Replicated Data Types</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(14).pdf" style="text-decoration:none;">ImageNet Large Scale Visual Recognition Challenge</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(15).pdf" style="text-decoration:none;">A Comprehensive Study of Main-Memory Partitioning and its Application to Large-Scale Comparison- and Radix-Sort</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(15).pdf" style="text-decoration:none;">Salient Object Detection: A Discriminative Regional Feature Integration Approach</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(16).pdf" style="text-decoration:none;">A Compressed Suffix Tree Based
-Implementation With Low Peak Memory Usage</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(16).pdf" style="text-decoration:none;">Hypercolumns for Object Segmentation and Fine-grained Localization</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(17).pdf" style="text-decoration:none;">A Course in
-Machine Learning</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(17).pdf" style="text-decoration:none;">Salient Object Detection: A Survey</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(18).pdf" style="text-decoration:none;">A Crash Course in x86 Assembly for Reverse Engineers</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(18).pdf" style="text-decoration:none;">Scalable High Quality Object Detection</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(19).pdf" style="text-decoration:none;">A Detailed Analysis of the Component Object Model</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(19).pdf" style="text-decoration:none;">Using Geometry to Detect Grasps in 3D Point Clouds</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(20).pdf" style="text-decoration:none;">A Dynamic Perfect Hash Function Defined by an Extended Hash Indicator Table</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(20).pdf" style="text-decoration:none;">Fast R-CNN</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(21).pdf" style="text-decoration:none;">A Family of Perfect Hashing Methods</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(22).pdf" style="text-decoration:none;">A Fast x86 Implementation of Select</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(23).pdf" style="text-decoration:none;">A Fast, Minimal Memory, Consistent Hash Algorithm</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(21).pdf" style="text-decoration:none;">Learning to Segment Object Candidates</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(22).pdf" style="text-decoration:none;">Instance-aware Semantic Segmentation via Multi-task Network Cascades</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(23).pdf" style="text-decoration:none;">Learning to Rene Object Segments</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(24).pdf" style="text-decoration:none;">A Faster Cutting Plane Method and its Implications for Combinatorial and Convex Optimization</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(24).pdf" style="text-decoration:none;">LIFT: Learned Invariant Feature Transform</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(25).pdf" style="text-decoration:none;">A Few Billion
-Lines of Code Later: Using Static Analysis to Find Bugs in the Real World</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(26).pdf" style="text-decoration:none;">A few experiments with the
-Cache Allocation Technology</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(27).pdf" style="text-decoration:none;">A File Comparison Program</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(25).pdf" style="text-decoration:none;">A MultiPath Network for Object Detection</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(26).pdf" style="text-decoration:none;">Go-ICP: A Globally Optimal Solution to 3D ICP Point-Set Registration</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(27).pdf" style="text-decoration:none;">R-FCN: Object Detection via Region-based Fully Convolutional Networks</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(28).pdf" style="text-decoration:none;">A File is Not a File: Understanding the I/O Behavior of Apple Desktop Applications</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(28).pdf" style="text-decoration:none;">RGBD Salient Object Detection via Deep Fusion</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(29).pdf" style="text-decoration:none;">A First Encounter with Machine Learning</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(29).pdf" style="text-decoration:none;">Visual Relationship Detection with Language Priors</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(30).pdf" style="text-decoration:none;">A Forensic Analysis of Navy Carrier Strike Group Eleven's Encounter with an Anomalous Aerial Vehicle</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(30).pdf" style="text-decoration:none;">Fully Convolutional Instance-aware Semantic Segmentation</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(31).pdf" style="text-decoration:none;">A Framework for Building Extensible C++ Class Libraries</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(32).pdf" style="text-decoration:none;">A History of Modern 64-bit Computing</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(31).pdf" style="text-decoration:none;">YOLO9000:
+Better, Faster, Stronger</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(32).pdf" style="text-decoration:none;">Dex-Net 2.0: Deep Learning to Plan Robust Grasps with Synthetic Point Clouds and Analytic Grasp Metrics</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(33).pdf" style="text-decoration:none;">A little journey inside Windows memory</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(33).pdf" style="text-decoration:none;">AffordanceNet: An End-to-End Deep Learning Approach for Object Affordance Detection</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(34).pdf" style="text-decoration:none;">A locality-sensitive hash for real vectors</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(34).pdf" style="text-decoration:none;">Light-Head R-CNN: In Defense of Two-Stage Object Detector</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(35).pdf" style="text-decoration:none;">A Lock-Free Wait-Free Hash Table</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(35).pdf" style="text-decoration:none;">MaskLab: Instance Segmentation by Refining Object Detection with Semantic and Direction Features</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(36).pdf" style="text-decoration:none;">A Look at Intel's Dataplane Development Kit</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(36).pdf" style="text-decoration:none;">Panoptic Segmentation</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(37).pdf" style="text-decoration:none;">A Malloc Tutorial</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(38).pdf" style="text-decoration:none;">A Mathematical Theory of Communication</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(39).pdf" style="text-decoration:none;">A Mathematician's Lament</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(40).pdf" style="text-decoration:none;">A Method for the Construction of Minimum-Redundancy Codes</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(41).pdf" style="text-decoration:none;">A Nanopass Framework for Compiler Education</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(42).pdf" style="text-decoration:none;">A New Basis for Shifters in General-Purpose Processors for Existing and Advanced Bit Manipulations</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(37).pdf" style="text-decoration:none;">Dynamic Graph CNN for Learning on Point Clouds</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(38).pdf" style="text-decoration:none;">Classification based Grasp Detection using Spatial Transformer Network</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(39).pdf" style="text-decoration:none;">Path Aggregation Network for Instance Segmentation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(40).pdf" style="text-decoration:none;">Fully Convolutional Grasp Detection Network with Oriented Anchor Box</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(41).pdf" style="text-decoration:none;">Local Spectral Graph Convolution for Point Set Feature Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(42).pdf" style="text-decoration:none;">Closing the Loop for Robotic Grasping: A Real-time, Generative Grasp Synthesis Approach</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(43).pdf" style="text-decoration:none;">A Novel Hybrid Quicksort Algorithm Vectorized using AVX-512 on Intel Skylake</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(44).pdf" style="text-decoration:none;">A NUMA API for Linux</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(45).pdf" style="text-decoration:none;">A Parallel Page Cache: IOPS and Caching for Multicore Systems</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(43).pdf" style="text-decoration:none;">Recurrent Convolutional Fusion for RGB-D Object Recognition</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(44).pdf" style="text-decoration:none;">Object Detection with Deep Learning: A Review</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(45).pdf" style="text-decoration:none;">CornerNet: Detecting Objects as Paired Keypoints</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(46).pdf" style="text-decoration:none;">A PlusCal User's Manual: 
-C-Syntax Version 1.8</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(46).pdf" style="text-decoration:none;">A Multi-task Convolutional Neural Network for Autonomous Robotic Grasping in Object Stacking Scenes</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(47).pdf" style="text-decoration:none;">A Practical Guide to Support Vector Classification</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(48).pdf" style="text-decoration:none;">A Practical Minimal Perfect Hashing Method</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(47).pdf" style="text-decoration:none;">The Open Images Dataset V4: Unified image classification, object detection, and visual relationship detection at scale</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(48).pdf" style="text-decoration:none;">PointConv: Deep Convolutional Networks on 3D Point Clouds</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(49).pdf" style="text-decoration:none;">A Primer on Memory
-Consistency and Cache Coherence</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(49).pdf" style="text-decoration:none;">Modeling Local Geometric Structure of 3D Point Clouds using Geo-CNN</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(50).pdf" style="text-decoration:none;">A Probabilistic Theory of Deep Learning</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(51).pdf" style="text-decoration:none;">A Proposal for Hardware-Assisted Arithmetic Overflow Detection for Array and Bitfield Operations</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(52).pdf" style="text-decoration:none;">A quick guide to LATEX</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(50).pdf" style="text-decoration:none;">Point-to-Pose Voting based Hand Pose Estimation using Residual Permutation Equivariant Layer</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(51).pdf" style="text-decoration:none;">Panoptic Feature Pyramid Networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(52).pdf" style="text-decoration:none;">UPSNet: A Unified Panoptic Segmentation Network</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(53).pdf" style="text-decoration:none;">A Relational Model of Data for
-Large Shared Data Banks </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(53).pdf" style="text-decoration:none;">Bottom-up Object Detection by Grouping Extreme and Center Points</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(54).pdf" style="text-decoration:none;">A Reliable Randomized Algorithm for the Closest-Pair Problem</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(54).pdf" style="text-decoration:none;">Monocular Depth Estimation: A Survey</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(55).pdf" style="text-decoration:none;">A Scalable and Explicit Event
-Delivery Mechanism for UNIX</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(55).pdf" style="text-decoration:none;">Single Network Panoptic Segmentation for Street Scene Understanding</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(56).pdf" style="text-decoration:none;">A Scalable Concurrent malloc(3) Implementation for FreeBSD </a></li>                              
+  <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(56).pdf" style="text-decoration:none;">MASC: Multi-scale Affinity with Sparse Convolution for 3D Instance Segmentation Technical Report </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(57).pdf" style="text-decoration:none;">A Scalable Lockfree
-Stack Algorithm</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(57).pdf" style="text-decoration:none;">DPOD: 6D Pose Object Detector and Refiner</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(58).pdf" style="text-decoration:none;">A Sense of Self for Unix Processes</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(59).pdf" style="text-decoration:none;">A SevenDimensional
-Analysis of Hashing Methods and its Implications on Query Processing</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(58).pdf" style="text-decoration:none;">Instance- and Category-level 6D Object Pose Estimation</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(59).pdf" style="text-decoration:none;">An End-to-End Network for Panoptic Segmentation</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(60).pdf" style="text-decoration:none;">A study of code abstraction</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(60).pdf" style="text-decoration:none;">Learning to Augment Synthetic Images for Sim2Real Policy Transfer</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(61).pdf" style="text-decoration:none;">A Study of "Wheat" and "Chaff" in Source Code</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(61).pdf" style="text-decoration:none;">TensorMask: A Foundation for Dense Object Segmentation</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(62).pdf" style="text-decoration:none;">A survey of rollback-recovery protocols in message-passing systems</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(62).pdf" style="text-decoration:none;">FCOS: Fully Convolutional One-Stage Object Detection</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(63).pdf" style="text-decoration:none;">Thread Scheduling</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(63).pdf" style="text-decoration:none;">YOLACT
+Real-time Instance Segmentation</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(64).pdf" style="text-decoration:none;">A tool for the linux binaries</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(64).pdf" style="text-decoration:none;">DeepGCNs: Can GCNs Go as Deep as CNNs?</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(65).pdf" style="text-decoration:none;">A Truly Concurrent Semantics for the K Framework Based on Graph Transformations </a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(65).pdf" style="text-decoration:none;">Objects as Points </a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(66).pdf" style="text-decoration:none;">A Tunable Compression Framework for Bitmap Indices</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(66).pdf" style="text-decoration:none;">CenterNet: Keypoint Triplets for Object Detection</a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(67).pdf" style="text-decoration:none;">A Tutorial on Bayesian Optimization of Expensive Cost Functions, with Application to Active User Modeling and Hierarchical Reinforcement Learning</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(67).pdf" style="text-decoration:none;">Salient Object Detection in the Deep Learning Era: An In-depth Survey</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(68).pdf" style="text-decoration:none;">A versatile data structure for edge-oriented graph algorithms</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(68).pdf" style="text-decoration:none;">A Review of Object Detection Models based on Convolutional Neural Network</a></li> 
  
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(69).pdf" style="text-decoration:none;">A very fast substring search algorithm</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(69).pdf" style="text-decoration:none;">DeepICP: An End-to-End Deep Neural Network for 3D Point Cloud Registration</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(70).pdf" style="text-decoration:none;">A Wavelet Tree Based FM-Index for Biological Sequences in SeqAn</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(70).pdf" style="text-decoration:none;">Object Detection in 20 Years: A Survey</a></li> 
   
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(71).pdf" style="text-decoration:none;">A Way Forward in Parallelising Dynamic Languages</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(71).pdf" style="text-decoration:none;">SAWNet: A Spatially Aware Deep Neural Network for 3D Point Cloud Processing</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(72).pdf" style="text-decoration:none;">Abstract Algebra: Theory and Applications</a></li> 
- 
- 
- <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(73).pdf" style="text-decoration:none;">Abstract Rendering: Out-of-core Rendering for Information Visualization</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(74).pdf" style="text-decoration:none;">Abusing Mach on Mac OS X</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(75).pdf" style="text-decoration:none;">Accelerating Network Receive Processing</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(76).pdf" style="text-decoration:none;">Adaptive Insertion Policies for High Performance Caching</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(77).pdf" style="text-decoration:none;">Adaptive Ray Packet Reordering</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(72).pdf" style="text-decoration:none;">Learning Object Bounding Boxes for 3D Instance Segmentation on Point Clouds</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(78).pdf" style="text-decoration:none;">Adaptive String Dictionary Compression in In-Memory Column-Store Database Systems</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(79).pdf" style="text-decoration:none;">Adding lock elision to Linux</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(73).pdf" style="text-decoration:none;">PyramNet: Point Cloud Pyramid Attention Network and Graph Embedding Module for Classification and Segmentation</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(74).pdf" style="text-decoration:none;">PU-GAN: a Point Cloud Upsampling Adversarial Network</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(75).pdf" style="text-decoration:none;">Class-balanced Grouping and Sampling for Point Cloud 3D Object Detection</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(76).pdf" style="text-decoration:none;">DensePoint: Learning Densely Contextual Representation for Efficient Point Cloud Processing</a></li>
 
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(80).pdf" style="text-decoration:none;">AddressSanitizer: A Fast Address Sanity Checker</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(77).pdf" style="text-decoration:none;">Antipodal Robotic Grasping using Generative Residual Convolutional Neural Network</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(81).pdf" style="text-decoration:none;">Advanced Bloom Filter Based Algorithms for Efficient Approximate Data De-Duplication in Streams</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(82).pdf" style="text-decoration:none;">Advanced Data Structures</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(83).pdf" style="text-decoration:none;">Advanced Topics in CUDA</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(84).pdf" style="text-decoration:none;">Advances in Cloud-Scale Machine Learning for Cyber-Defense</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(85).pdf" style="text-decoration:none;">Advances in Memory Management
-for Windows</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(86).pdf" style="text-decoration:none;">Improving Network Connection Locality on Multicore Systems</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(87).pdf" style="text-decoration:none;">C++ vector class library</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(88).pdf" style="text-decoration:none;">VCL C++ vector class library
-manual</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(89).pdf" style="text-decoration:none;">Calling conventions for different C++ compilers and operating systems</a></li>
-  
-  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(90).pdf" style="text-decoration:none;">Instruction tables</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(91).pdf" style="text-decoration:none;">The microarchitecture of Intel, AMD and VIA CPUs: An optimization guide for assembly programmers and compiler makers </a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(92).pdf" style="text-decoration:none;">Optimizing software in C++: An optimization guide for Windows, Linux and Mac platforms</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(93).pdf" style="text-decoration:none;"> Optimizing subroutines in assembly language: An optimization guide for x86 platforms</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(94).pdf" style="text-decoration:none;">Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Machine Learning</a></li> 
-  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(95).pdf" style="text-decoration:none;">Algorithms for Random 3-SAT</a></li>  
-  
-<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(96).pdf" style="text-decoration:none;">Algorithms for Routing Lookups and Packet Classification</a></li> 
-  
-  
-<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(97).pdf" style="text-decoration:none;">Allocation Removal by Partial Evaluation in a Tracing JIT</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(78).pdf" style="text-decoration:none;">A Deep Learning Approach to Grasping the Invisible</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(79).pdf" style="text-decoration:none;">CNN-based RGB-D Salient Object Detection: Learn, Select and Fuse</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(98).pdf" style="text-decoration:none;">Almost random graphs with simple hash functions</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(80).pdf" style="text-decoration:none;">Voting for Distortion Points in Geometric Processing</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(81).pdf" style="text-decoration:none;">Learning Continuous 3D Reconstructions for Geometrically Aware Grasping</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(82).pdf" style="text-decoration:none;">CenterMask: Real-Time Anchor-Free Instance Segmentation</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(83).pdf" style="text-decoration:none;">Fast 3D Pose Refinement with RGB Images</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(84).pdf" style="text-decoration:none;">LCD: Learned Cross-Domain Descriptors for 2D-3D Matching</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(85).pdf" style="text-decoration:none;">Normal Assisted Stereo Depth Estimation</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(86).pdf" style="text-decoration:none;">SAIS: Single-stage Anchor-free Instance Segmentation</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(87).pdf" style="text-decoration:none;">YOLACT++
+Better Real-time Instance Segmentation</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(88).pdf" style="text-decoration:none;">cmSalGAN: RGB-D Salient Object Detection with Cross-View Generative Adversarial Networks</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(89).pdf" style="text-decoration:none;">Learning to Generate Dense Point Clouds with Textures on Multiple Categories</a></li>
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(99).pdf" style="text-decoration:none;">Alpha AXP Architecture</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(100).pdf" style="text-decoration:none;">Alternating Coding and its Decoder Architectures for Unary-Prefixed Codes</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(90).pdf" style="text-decoration:none;">Front2Back: Single View 3D Shape Reconstruction via Front to Back Prediction</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(91).pdf" style="text-decoration:none;">Geometry Sharing Network for 3D Point Cloud Classification and Segmentation</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(92).pdf" style="text-decoration:none;">Point2Node: Correlation Learning of Dynamic-Node for Point Cloud Feature Modeling</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(93).pdf" style="text-decoration:none;"> Geometry-Aware Generation of Adversarial Point Clouds</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(94).pdf" style="text-decoration:none;">Neural Shape Parsers for Constructive Solid Geometry</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(95).pdf" style="text-decoration:none;">Boundary Cues for 3D Object Shape Recovery</a></li>  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(96).pdf" style="text-decoration:none;">SESS: Self-Ensembling Semi-Supervised 3D Object Detection</a></li> 
+  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(97).pdf" style="text-decoration:none;">W-PoseNet: Dense Correspondence Regularized Pixel Pair Pose Regression</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(98).pdf" style="text-decoration:none;">Category-Level Articulated Object Pose Estimation</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(99).pdf" style="text-decoration:none;">Skeleton Extraction from 3D Point Clouds by Decomposing the Object into Parts</a></li>  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(100).pdf" style="text-decoration:none;">Deep Learning for 3D Point Clouds: A Survey</a></li>  
   
  <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(101).pdf" style="text-decoration:none;">AMD64 Architecture
 Programmer's Manual, Volume 4: 128-Bit and 256-Bit Media Instructions</a></li> 

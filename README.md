@@ -1056,7 +1056,7 @@ CAD-Deform: Deformable Fitting of CAD Models to 3D Scans</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(581).pdf" style="text-decoration:none;">Unsupervised Continuous Object Representation Networks for Novel View Synthesis</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(582).pdf" style="text-decoration:none;">LevelSet R-CNN: A Deep Variational Method for Instance Segmentation</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(583).pdf" style="text-decoration:none;">Rethinking PointNet Embedding for Faster and Compact Model</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(584).pdf" style="text-decoration:none;">Searching Ecient 3D Architectures with Sparse Point-Voxel Convolution</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(584).pdf" style="text-decoration:none;">Searching Efficient 3D Architectures with Sparse Point-Voxel Convolution</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(585).pdf" style="text-decoration:none;">KAPLAN: A 3D Point Descriptor for Shape Completion</a></li>
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(586).pdf" style="text-decoration:none;">RGB-D Salient Object Detection: A Survey</a></li>

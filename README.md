@@ -41,7 +41,7 @@ Microsoft COCO: Common Objects in Context </a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(21).pdf" style="text-decoration:none;">Learning to Segment Object Candidates</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(22).pdf" style="text-decoration:none;">Instance-aware Semantic Segmentation via Multi-task Network Cascades</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(23).pdf" style="text-decoration:none;">Learning to Rene Object Segments</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(23).pdf" style="text-decoration:none;">Learning to Refine Object Segments</a></li> 
  
 
    <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(24).pdf" style="text-decoration:none;">LIFT: Learned Invariant Feature Transform</a></li>
@@ -1110,7 +1110,7 @@ Learning Implicit Representations for Human Grasps</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(612).pdf" style="text-decoration:none;">Learning Gradient Fields for Shape Generation</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(613).pdf" style="text-decoration:none;">Progressively Guided Alternate Renement Network for RGB-D Salient Object Detection</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(613).pdf" style="text-decoration:none;">Progressively Guided Alternate Refinement Network for RGB-D Salient Object Detection</a></li>   
   
 <li><a target="_blank" href="https://github.com/manjunath5496/Vision-based-Robotic-Grasping-Papers/blob/master/robo(614).pdf" style="text-decoration:none;">Category-Level 3D Non-Rigid Registration from Single-View RGB Images</a></li> 
 
